@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "lQkWiMZmHVOf/Z1nAA4Zx5VYGBUbA+jej/m+SgXDMCmcfqUY/fyXHHYk0e8KW+xptZ+gjW0rUHQXN+4rPBZtJg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\William Shelton\\Documents\\Shelton_BookDB\\Shelton_BookDB\\Shelton_BookDB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\William Shelton\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
+    "C:\\Users\\William Shelton\\.nuget\\packages\\mysqlconnector\\2.3.1\\mysqlconnector.2.3.1.nupkg.sha512",
+    "C:\\Users\\William Shelton\\.nuget\\packages\\system.diagnostics.diagnosticsource\\7.0.2\\system.diagnostics.diagnosticsource.7.0.2.nupkg.sha512",
+    "C:\\Users\\William Shelton\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
